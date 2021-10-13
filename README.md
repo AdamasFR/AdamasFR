@@ -1,4 +1,4 @@
-![Hi page from my Nokia 3310](https://raw.githubusercontent.com/AdamasFR/AdamasFR/master/IMG_4172DFF3163C-1.jpeg)
+# Hi !
 
 💼 By Day, I work @ [Harvest](//www.harvest.fr) as a Software Developer
 
