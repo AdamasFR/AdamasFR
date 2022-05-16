@@ -1,6 +1,6 @@
 # Hi !
 
-💼 By Day, I work @ [Harvest](//www.harvest.fr) as a Software Developer
+💼 I'm a Software Developer @ [Harvest](//www.harvest.fr)
 
 📫 You can reach me:
 - On Twitter 🦜 at [@adamas_fr](https://twitter.com/adamas_fr)
