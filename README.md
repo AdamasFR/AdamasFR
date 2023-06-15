@@ -1,6 +1,6 @@
 # Hi !
 
-💼 I'm a Software Developer @ [Harvest](//www.harvest.fr)
+💼 I'm a special boy between jobs
 
 📫 You can reach me:
 - On Mastodon 🐘 : [@adamas@imaginair.es](https://imaginair.es/@adamas)
