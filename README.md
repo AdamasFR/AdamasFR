@@ -1,6 +1,6 @@
 # Hi !
 
-💼 Software Engineer @ Sopra Steria
+💼 Senior Software Engineer @ Sopra Steria
 
 📫 You can reach me:
 - On Mastodon 🐘 : [@adamas@imaginair.es](https://imaginair.es/@adamas)
