@@ -1,6 +1,6 @@
 # Hi !
 
-💼 I'm a special boy between jobs
+💼 Software Engineer @ Sopra Steria
 
 📫 You can reach me:
 - On Mastodon 🐘 : [@adamas@imaginair.es](https://imaginair.es/@adamas)
