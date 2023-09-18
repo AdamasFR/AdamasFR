@@ -1,6 +1,6 @@
 # Hi !
 
-💼 Senior Software Engineer @ Sopra Steria
+💼 Senior Engineer @ Sopra Steria Group
 
 📫 You can reach me:
 - On Mastodon 🐘 : [@adamas@social.adm.ink](https://social.adm.ink/@adamas)
